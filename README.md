@@ -7,6 +7,9 @@ It demonstrates basic data cleaning, summary statistics, and trend analysis — 
 Contents:
 
 Raw data sheet
+
 Cleaned/processed data
+
 Pivot tables and summary reports
+
 Charts for visualization
